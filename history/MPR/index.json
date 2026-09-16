@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "MPR.dll",
+  "latest": "2433114060-9F841B04F37F7332CD5AE4751DAAFA23-1",
+  "builds": [
+    {
+      "key": "2433114060-9F841B04F37F7332CD5AE4751DAAFA23-1",
+      "timestamp": "2433114060",
+      "pdb_guid": "9F841B04F37F7332CD5AE4751DAAFA23",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/2433114060-9F841B04F37F7332CD5AE4751DAAFA23-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
